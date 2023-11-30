@@ -36,7 +36,7 @@ The script generates a Fortinet CLI script that can be used to create the firewa
 
 ### Program Execution
 
-![Program GUI](prorgram_screenshot.png)
+![Program GUI](program_screenshot.png)
 
 ### Importing the Script into FortiGate
 
