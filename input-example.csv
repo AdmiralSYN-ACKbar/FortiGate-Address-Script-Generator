@@ -1,0 +1,7 @@
+name,value,group,comments,group_comments
+item1,192.168.1.0/24,group1,sample ip,sample group 1
+item2,www.example.com,group1,sample fqdn,
+item3,192.168.2.0/24,,sample ip,
+item4,www.test.com,group2,sample fqdn,sample group 2
+item5,192.168.3.0/24,group2,sample ip,
+item6,www.sample.com,,sample fqdn,
