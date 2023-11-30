@@ -18,7 +18,7 @@ The file should be selected in the GUI when running the script.
 
 ## Usage
 
-1. Run the script: `python forti-address10.py`
+1. Run the script: `python forti-script-gen.py`
 2. In the GUI, click "Browse" next to "Input CSV" and select your CSV file.
 3. Click "Browse" next to "Output File" and select where you want the output file to be saved.
 4. Click "ENGAGE" to generate the script. 
@@ -36,7 +36,7 @@ The script generates a Fortinet CLI script that can be used to create the firewa
 
 ### Program Execution
 
-![Program GUI](program_screenshot.png)
+![Program GUI](progh repo rename forti-script-gen FortiGate-Address-Script-Generatorgh repo rename forti-script-gen FortiGate-Address-Script-Generatorgh repo rename AdmiralSYN-ACKbar/forti-script-gen FortiGate-Address-Script-Generatorgram_screenshot.png)
 
 ### Importing the Script into FortiGate
 
